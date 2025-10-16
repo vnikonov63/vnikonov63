@@ -9,6 +9,8 @@
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![x86_64 Assembly](https://img.shields.io/badge/x86__64%20Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ---
 
 #### 🧰 Tools & Development Environment
@@ -18,3 +20,5 @@
 ![GDB](https://img.shields.io/badge/GDB-4B275F?style=for-the-badge)
 ![Valgrind](https://img.shields.io/badge/Valgrind-8B0000?style=for-the-badge)
 ![gperftools](https://img.shields.io/badge/gperftools--pprof-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
