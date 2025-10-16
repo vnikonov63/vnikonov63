@@ -1,13 +1,10 @@
 ### 🎓 Education
 
-**![University of Auckland](https://img.shields.io/badge/University_of_Auckland-002147?style=for-the-badge&logo=university-of-auckland&logoColor=white)**  
-_Auckland, New Zealand_  
-*(Planned Continuation of Studies – February 2026)*  
+**![University of Auckland](https://img.shields.io/badge/University_of_Auckland-002147?style=for-the-badge&logo=university-of-auckland&logoColor=white)** _Auckland, New Zealand_ *(Planned Continuation of Studies – February 2026)*  
 - Postgraduate Diploma in Science – Computer Science  
 - Graduate Diploma in Science – Mathematics  
 
-**![University of California, San Diego](https://img.shields.io/badge/University_of_California,_San_Diego-182B49?style=for-the-badge&logo=university-of-california&logoColor=white)**  
-_La Jolla, California, United States_  
+**![University of California, San Diego](https://img.shields.io/badge/University_of_California,_San_Diego-182B49?style=for-the-badge&logo=university-of-california&logoColor=white)** _La Jolla, California, United States_  
 - Bachelor of Science – Mathematics & Computer Science, Revelle College
 
 ### ⚡ My Technology Stack
