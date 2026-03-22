@@ -45,3 +45,7 @@ Bachelor of Science **B.S.** Mathematics-Computer Science, Revelle College
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
 
+### Learning & Growth
+[![Certifications](https://img.shields.io/badge/Certifications-cert--completion-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/vnikonov63/cert-completion)
+
+[![Reading List](https://img.shields.io/badge/Reading_List-your--reading--repo-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/vnikonov63/reading-list)
